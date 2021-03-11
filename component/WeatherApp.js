@@ -4,7 +4,6 @@ import Icon from "react-native-vector-icons/Entypo";
 import MaterialCommunityIconsIcon from "react-native-vector-icons/MaterialCommunityIcons";
 import Svg, { Ellipse } from "react-native-svg";
 
-
 const ApiKey = "bc7a096b0fb9f385404183604e18551a";
 export class WeatherApp extends Component {
   
@@ -31,7 +30,6 @@ export class WeatherApp extends Component {
       clody:"partly-Cloudy"
     }
  }
-
 
  calCelsius(temp){
   var cel=Math.floor(temp-273.15);
