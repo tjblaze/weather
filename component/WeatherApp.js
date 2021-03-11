@@ -248,7 +248,7 @@ const styles = StyleSheet.create({
         marginLeft: 53
       },
     lagosContainer: {
-        width: 80,
+        width: 140,
         height: 47
       },
       lagos: {
@@ -268,7 +268,7 @@ const styles = StyleSheet.create({
       },
       ellipse: {
         top: 0,
-        left: 100,
+        left: 85,
         width: 257,
         height: 258,
         position: "absolute",
@@ -276,7 +276,7 @@ const styles = StyleSheet.create({
       },
       icon4: {
         top: 30,
-        left: 130,
+        left: 100,
         position: "absolute",
         color: "rgba(255,255,255,1)",
         fontSize: 200,
