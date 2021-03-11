@@ -38,8 +38,6 @@ export class WeatherApp extends Component {
   return cel;
    }
 
-
-
   getWeatherIcon(icon,rangeId){
     switch (true) {
       case rangeId>=200 && rangeId<=232:
